@@ -39,3 +39,6 @@ footer {
 footer .text {
     padding-top: 10px;
 }
+.imagen img {
+    width: 20%;
+}
