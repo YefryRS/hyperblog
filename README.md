@@ -4,3 +4,4 @@ Este hyperblog lo realize simplemente para poner en practica git y github
 
 *Este Readme es solo un pinche ejemplo
 *Yo soy bien perron
+*Ya casia acabo el curso
